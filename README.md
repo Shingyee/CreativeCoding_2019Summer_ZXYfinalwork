@@ -1,5 +1,5 @@
 # **FunFan温感交互风扇**
-赵新宇 518432910011
+赵新宇 518432910011 CreativeCoding2019Summer Final Project
 ***
 ## 问题的发现
 * 睡觉时无法调控风扇
