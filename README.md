@@ -12,10 +12,10 @@
 * 利用ULN2003芯片和电容器，增大和稳定输出电流，使风扇稳定工作
 * 设定自动开关的温度（28℃），高于设定温度时输出电流，风扇工作；反之停止工作
 ## 方案的实行：
-### processing操作界面
-[操作界面](https://github.com/Shingyee/zxy/blob/master/processing/新建图像.jpg)
 ### 运用到的模块
 UNOR3 数据线 电位器 直流电机 跳线 温湿度模板 电容器 风扇叶片 面包板 ULN2003芯片
 ### 实现到的功能
 自动开关 实时温度 舒适控温 人机交互 智能界面 无极变速
-
+### 实际操作
+[processing操作界面](https://github.com/Shingyee/zxy/blob/master/processing/新建图像.jpg)
+[操作视频百度云链接](https://pan.baidu.com/s/1fm9NCIVT4aTLu30OigIuvQ) 提取码：b5px
